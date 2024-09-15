@@ -9,6 +9,7 @@ export const theme = {
         main: '#131313',
         buttonBlue: '#3177F2',
         buttonOrange: '#FF5D17',
+        buttonOrangeShine: '#FF7017FF',
       }
     },
     typography: {
